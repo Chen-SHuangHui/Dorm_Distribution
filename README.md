@@ -2,6 +2,7 @@
 Methods to distribute students to dormitories.
 
 Our team: Wu Qiuting, Chen Shuanghui, Xu Jiayue, Wan Muchun
+
 Author: Chen Shuanghui
 
 Example:
