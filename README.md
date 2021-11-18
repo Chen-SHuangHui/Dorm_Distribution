@@ -9,3 +9,10 @@ Example:
 ```
 python .\Dorm_Distribution_Hierarchical_Clustering.py -i .\simulated.dataset.csv -o result -s 6 -w bedtime,2/risetime,2/money,1.5
 ```
+
+### Dir: draft_bootstrap_vue:
+A draft of personal page:
+```bash
+cd draft_bootstrap_vue && npm install && npm run serve
+
+```
