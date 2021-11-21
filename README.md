@@ -16,3 +16,10 @@ A draft of personal page:
 cd draft_bootstrap_vue && npm install && npm run serve
 
 ```
+
+### GUI
+The GUI of mobile phones can be seen at "WiseDorm (Dorm Distribution Test)" [《智宿小助手（分宿舍测试）》]
+
+https://modao.cc/app/077617a6848df5a4bec1dedabe7a80001aec434b  
+
+code: prtx3m
